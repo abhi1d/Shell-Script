@@ -1,4 +1,5 @@
 #!/bin/bash
+#this script help me to automate my home directory
 # extension .c files will go into the C_CODES folder
 mv /home/abhi/*.c /home/abhi/C_CODES/  
 

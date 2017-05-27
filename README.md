@@ -8,7 +8,7 @@
 
 **HOW TO USE ?**
 > chmod +x extension.sh 
-#### run this command in terminal in without quotes (this command for giving the permission)  ,then
+#### run this command in terminal (this command for giving the permission)  ,then
 > ./extension.sh
 #### then all the code files will go into the different different folder (C_FILES ,CPP_FILES ,JAVA_FILES)
 #### When you code in any language ,no matter you just save your code at home directory in linux 
